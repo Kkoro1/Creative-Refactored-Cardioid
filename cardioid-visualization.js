@@ -8,7 +8,7 @@ let purple, cblue, black;
 
 //set the display and the few constants
 function setup() {
-  createCanvas(windowWidth, windowWidth);
+  createCanvas(600, 600);
   r = height / 2 - 16;
   
   //set the rgb values for the gradient
