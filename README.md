@@ -3,4 +3,4 @@ My code for object oriented cardioid visualization
 
 
 
-  https://kkoro1.github.io/Creative-Refactored-Cardioid/
+https://kkoro1.github.io/Creative-Refactored-Cardioid/index.html
